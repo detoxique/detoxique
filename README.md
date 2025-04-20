@@ -2,6 +2,8 @@
 
 - I’m currently learning Golang and all the backend stuff.
 - How to reach me(telegram): @funeralarchangel
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=detoxique&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **detoxique/detoxique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
