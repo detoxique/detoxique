@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi, I'm Maxim 👋
 
+- I’m currently learning Golang and all the backend stuff.
+- How to reach me(telegram): @funeralarchangel
 <!--
 **detoxique/detoxique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
