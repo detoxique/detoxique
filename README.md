@@ -1,7 +1,10 @@
 ## Hi, I'm Maxim 👋
 
-- I’m currently learning Golang and all the backend stuff.
+- I’m currently learning Go and all the backend stuff.
 - How to reach me(telegram): @funeralarchangel
+
+Frontend: HTML, CSS, JS
+Backend: JWT, PostgreSQL, TSQL, Go
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=detoxique&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
