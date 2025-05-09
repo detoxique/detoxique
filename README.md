@@ -4,7 +4,8 @@
 - How to reach me(telegram): @funeralarchangel
 
 Frontend: HTML, CSS, JS <br>
-Backend: JWT, PostgreSQL, TSQL, Go
+Backend: JWT, PostgreSQL, TSQL, Go <br>
+Other: C++, C#
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=detoxique&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
