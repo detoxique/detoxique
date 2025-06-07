@@ -5,7 +5,7 @@
 
 Frontend: HTML, CSS, JS <br>
 Backend: JWT, OAuth, PostgreSQL, TSQL, SQLite3, Go <br>
-Other: C++, C#
+Other: C++, C#, СМаке
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=detoxique&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
