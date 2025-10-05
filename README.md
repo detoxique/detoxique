@@ -3,8 +3,8 @@
 - I’m currently learning Go and all the backend stuff.
 - How to reach me(telegram): @funeralarchangel
 
-Frontend: HTML, CSS, JS <br>
-Backend: JWT, OAuth, PostgreSQL, TSQL, SQLite3, Go, RestAPI, WebSocket <br>
+Frontend: html, css, js, React <br>
+Backend: JWT, OAuth, PostgreSQL, TSQL, SQLite3, Go, RestAPI, WebSocket, Redis, nginx, Docker, CI/CD, S3 <br>
 Other: C++, C#, СМаке
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=detoxique&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
